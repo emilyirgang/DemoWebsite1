@@ -25,6 +25,14 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
+.section-subheading2{
+  color: red;
+}
+
+h4 { color: white; }
+
+.text-muted { color: white; } !important
+
 section {
   padding: 100px 0; }
   section h2.section-heading {
